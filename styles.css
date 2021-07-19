@@ -1,0 +1,18 @@
+/* body style  is applied to body html element*/
+
+body {
+
+}
+
+div {
+
+}
+
+/*this is a class, it is not like python, choose to use the class based style if you think you are going to use this in multiple elements*/
+
+.list {
+    background-color: aqua;
+    color: bisque;
+    font-size: 18px;
+
+}

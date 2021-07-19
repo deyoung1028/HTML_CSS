@@ -1,0 +1,59 @@
+body {
+    background-image: url(https://shoutitoutdesign.com/wp-content/uploads/2016/10/90s-website-style-1024x582.jpg)
+    
+}
+
+h1 {
+    background-color: aqua;
+    color: deeppink ;
+    width: fit-content;
+}
+
+.list {
+    background-color: aqua;
+    color:#8A2BE2;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: fit-content;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+#tapeposter {
+    width: 320px;
+    height: 320px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#jen13th {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.header {
+    background-color: lightcoral;
+    font-size: 50pt;
+    color: mediumblue;
+    padding: .2em;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.boxed {
+     border: 5px dashed goldenrod  
+}
+.paragraph {
+    background-color: hotpink;
+    font-family: sans-serif;
+    font-size: larger;
+    color: indigo;
+}
