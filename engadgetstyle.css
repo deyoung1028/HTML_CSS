@@ -1,0 +1,87 @@
+@media (min-width:1281px) {
+    #drmobile {
+        display:none
+    }
+}
+
+#drmobile {
+    display: none;
+}
+
+
+#menu {
+    list-style: none;
+    display: flex;
+    background-color: white;
+    border-top: grey solid 2px;
+    padding: 16px 20px 16px 0px;
+
+}
+
+#menu li {
+    color: #0073b9;
+    padding: 6px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16pt;
+    font-weight: bolder;
+    
+}
+#container {
+    display: flex;
+    flex-direction: column;
+
+ }
+ #promo {
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     border: grey groove 3px
+ }
+#drdesktop {
+    width: 100%
+}
+
+#tools-to-simplify {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-between;
+    background-color: lightgray;
+}
+h4 {
+    color: #0073b9;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 12pt;
+}
+.boxtitle {
+    width: 300px; 
+    height: 300; 
+    background-color:white;
+    margin: 10px; 
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 30px;
+}
+
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+    #menu {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #drdesktop {
+        display: none;
+
+    }
+
+    #drmobile {
+        width: 50%;
+        
+    }
+
+}
