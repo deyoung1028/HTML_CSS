@@ -1,0 +1,33 @@
+#header {
+    width: 319;
+    height: 159;
+}
+
+.carousel-resize {
+    position: relative;
+    width: 60%;
+    overflow: hidden;
+    margin:auto
+
+}
+
+.carousel-outer {
+    position:relative;
+    display:flex;
+    justify-content: center;
+
+}
+
+.gridimage {
+    position: relative;
+    width: 40%;
+    justify-content: center;
+}
+
+.card-style {
+    background-image: linear-gradient(to right, grey, lightgray );
+}
+
+.class {
+    background-color: li
+}

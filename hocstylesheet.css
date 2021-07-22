@@ -1,0 +1,9 @@
+#menu div {
+    display: inline;
+    padding-left: 20px ;
+    padding-right: 20px;
+    min-height: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+}
